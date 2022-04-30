@@ -11,3 +11,5 @@ With a jagged array, the number of columns is not fixed, meaning the inner arra
 
 For C# file:
 Jagged arrays can be optimized at the intermediate language level and this can be exploited to speed up programs. Now, C# natively differentiates between a jagged and multi-dimensional array, but many other languages don't.
+
+![Important ](https://user-images.githubusercontent.com/101124995/166116245-bdf8c34d-93c3-42df-810f-0cb178b4cc41.png)
